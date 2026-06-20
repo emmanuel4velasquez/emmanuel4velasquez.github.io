@@ -12,7 +12,7 @@ import svelte from "@astrojs/svelte";
 
 import db from "@astrojs/db";
 
-const envSiteUrl = process.env.SITE_URL ?? "https://EmmanuelVelasquez.com/";
+const envSiteUrl = process.env.SITE_URL ?? "https://Emmanuel4velasquez.github.io";
 const site = envSiteUrl.endsWith("/") ? envSiteUrl : `${envSiteUrl}/`;
 const siteNoTrailingSlash = site.endsWith("/") ? site.slice(0, -1) : site;
 
