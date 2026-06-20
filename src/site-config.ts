@@ -21,7 +21,7 @@ export const SITE = {
     medium: "https://ladvace.medium.com/",
     discord: "https://discordapp.com/users/163300027618295808",
     dribble: "https://dribbble.com/Ladvace_Jace",
-    email: "contact@gianmarcocavallo.com",
+    email: "emanuel.velasquezz30021@gmail.com",
   },
   cal: {
     username: "ladvace",
